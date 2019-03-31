@@ -1,0 +1,11 @@
+C:\Users\haribalakrishnan\Desktop\BettingApp\bin\Debug\netcoreapp2.0\BettingApp.deps.json
+C:\Users\haribalakrishnan\Desktop\BettingApp\bin\Debug\netcoreapp2.0\BettingApp.runtimeconfig.json
+C:\Users\haribalakrishnan\Desktop\BettingApp\bin\Debug\netcoreapp2.0\BettingApp.runtimeconfig.dev.json
+C:\Users\haribalakrishnan\Desktop\BettingApp\bin\Debug\netcoreapp2.0\BettingApp.dll
+C:\Users\haribalakrishnan\Desktop\BettingApp\bin\Debug\netcoreapp2.0\BettingApp.pdb
+C:\Users\haribalakrishnan\Desktop\BettingApp\obj\Debug\netcoreapp2.0\BettingApp.csprojResolveAssemblyReference.cache
+C:\Users\haribalakrishnan\Desktop\BettingApp\obj\Debug\netcoreapp2.0\BettingApp.csproj.CoreCompileInputs.cache
+C:\Users\haribalakrishnan\Desktop\BettingApp\obj\Debug\netcoreapp2.0\BettingApp.AssemblyInfoInputs.cache
+C:\Users\haribalakrishnan\Desktop\BettingApp\obj\Debug\netcoreapp2.0\BettingApp.AssemblyInfo.cs
+C:\Users\haribalakrishnan\Desktop\BettingApp\obj\Debug\netcoreapp2.0\BettingApp.dll
+C:\Users\haribalakrishnan\Desktop\BettingApp\obj\Debug\netcoreapp2.0\BettingApp.pdb
